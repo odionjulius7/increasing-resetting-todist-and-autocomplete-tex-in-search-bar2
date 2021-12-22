@@ -1,0 +1,15 @@
+ul {
+  list-style: none;
+  padding-left: 0 !important;
+  border: 1px solid rgb(59, 59, 59);
+  box-shadow: 1px 2px 3px rgba(59, 59, 59, 0.3);
+  /* change */
+}
+
+ul li {
+  padding: 5px;
+  width: 100%;
+}
+ul li:hover {
+  background-color: rgb(238, 238, 238);
+}
